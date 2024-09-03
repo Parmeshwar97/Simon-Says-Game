@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  background: #0000004e;
+}
+.btn {
+  height: 150px;
+  width: 150px;
+  border: 10px solid black;
+  border-radius: 20px;
+  margin: 2rem;
+  cursor: pointer;
+}
+#container {
+  display: flex;
+  justify-content: center;
+}
+.orange {
+  background-color: orange;
+}
+.yellowgreen {
+  background-color: yellowgreen;
+}
+.violet {
+  background-color: violet;
+}
+.skyblue {
+  background-color: skyblue;
+}
+.flash {
+  background-color: #fff;
+}
+.userflash {
+  background-color: green;
+}
+.over {
+  background-color: red;
+}
